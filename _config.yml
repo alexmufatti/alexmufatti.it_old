@@ -84,3 +84,9 @@ feed:
 
 sitemap:
   path: sitemap.xml
+
+robotstxt:
+  useragent: "*"
+  disallow:
+  allow:
+  sitemap: https://alexmufatti.it/sitemap.xml

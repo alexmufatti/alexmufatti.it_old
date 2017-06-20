@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/alexmufatti
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alexmufatti.it
+  * I am alexmufatti (https://keybase.io/alexmufatti) on keybase.
+  * I have a public key with fingerprint 3C87 D51F 6A0E 32AD E9AF  CA6D 3D68 4933 EDFE 6EF0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019ca85c08efc0088000c8b66c35f0116e938940f3f98ad5fd1ee905f9847788560a",
+            "fingerprint": "3c87d51f6a0e32ade9afca6d3d684933edfe6ef0",
+            "host": "keybase.io",
+            "key_id": "3d684933edfe6ef0",
+            "kid": "01019ca85c08efc0088000c8b66c35f0116e938940f3f98ad5fd1ee905f9847788560a",
+            "uid": "4967f7eadf50984edb48e046f8157919",
+            "username": "alexmufatti"
+        },
+        "revoke": {
+            "sig_ids": [
+                "94d28b069783d4dd687795ab60b6561af1fb9036c1a848bd33b2ff2102ec3bf20f"
+            ]
+        },
+        "service": {
+            "hostname": "alexmufatti.it",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486200111,
+    "expire_in": 157680000,
+    "prev": "dd258ed23855673a3bcdac601b413ee43db05a099e784df9784dc589d57e4da5",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMJpAnicrZJfiFVFHMfv1c22jV016iUh8vRS67Y7c+bMnJlbitQKLomtgiTYepk5
+85v1tHfPuZ1z7m0vtvkSFLRgZmtkaAn+iyIRXaloWys3qMXQUFiUFJQgKB+CLrG0
+WHOWeqrHXmaYme/v8/vOd+Zc++JCW/HGxT3Nrz/f3SzOfDFXK2wdP9Cz01Gxbjil
+nc4QLExQ0ZBm5aFQOyUHYYRFIDkNEAcTIMQ5QijgirGAUIMwZiAIFx4yxAguNTUa
+AwhE7crzfc4pQ9LpckwYDUJSTcIos1gScF9TbJhEQFypQUgTSKaJZtwThIA2wMAg
+W7gjTvMKa07JFLrD2O7ZRXnB3n/o/2fftQWcJ5hvfJDaUGTPQSuPA/KY4Zj6Aotc
+mEISyWGwalmBkeGakVkWOqNdTgL1eAjyaNNw0PpOndI2R3ja5Qox4XOiPW3v4fuC
+SsWQYpRhabBRAhEWYMk9rjQhyjXGxciFgCjjIuMMWLZtWg+DBXge1L8NdIeZNVdN
+4iwO4oo925Fl1bSU+8oa1Vz8Aqjy35iyCiNtH8pW1CFJwzhyStgqgyzMudjjzEU2
+O9zlwEg1TKAc5grqszxdlPeBukVq7VIO2iWcUuYTSVSgZcAQVh4mAB7RClGJhACf
+e9qIfAwoF5r64GlJnfxiz0exZRPrUw5aps0uklktAWf0y7PPthSKbYUldyzKf3Ch
+7a5l//zrK7vu/LPy2RtXDm2UW/auGet+tfTo5PBouPv8b3Pm2rvV2uzlE1vT7nUd
+G47cnjqzp3X6vU9+3OS2X+/lredb7l/Z1rm2o/cehWf6X38rXf3T+7M9fZs3HZwd
+uTi26vjqyw/XPmiw01er0xU2Ht1ma9ZPjD3W+u037xzbtvjWqULva0v3rZ2D+L5m
+NHthece6uzvPHW2uGBLPLW08smXRxo+fuDqfTJ4s7vpU33uaPj24/aVVG37pK5pn
+plrCSyv2PeWfeHv5i/O/1vf/0Xq8//ELEysfbB6sfPdR8LPr36r9Pr5srAW/+cCH
+k/HLT04d6P++Z55M/MAeeuVw38lLN6ePHZXbB84OzOzfu/6r9kbnX/LiXj8=
+=kWbm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexmufatti
+
+==================================================================

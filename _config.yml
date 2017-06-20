@@ -67,8 +67,8 @@ theme: tranquilpeak
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: rsync
-  host: ec2-52-48-229-12.eu-west-1.compute.amazonaws.com
-  user: mua
+  host: mua01.alexmufatti.it
+  user: root
   root: /var/www/blog
   port:
   delete: true

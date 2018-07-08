@@ -90,6 +90,9 @@ theme_config:
     github: https://github.com/alexmufatti
     twitter: https://twitter.com/alexmufatti
     linkedin: https://www.linkedin.com/in/amufatti/
+    npm: https://www.npmjs.com/~alexmufatti
+    stack-overflow: https://stackoverflow.com/users/606622/alex-mufattin
+    strava: https://www.strava.com/athletes/12353579
   language: it
   rss:
   google_analytics:

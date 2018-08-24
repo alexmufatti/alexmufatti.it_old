@@ -80,7 +80,7 @@ pagination_dir: page
 theme: cactus
 
 theme_config:
-  colorscheme: dark
+  colorscheme: alex
   nav:
     Home: /
     About: /about/
@@ -116,9 +116,9 @@ theme_config:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: rsync
-  host: mua01.alexmufatti.it
-  user: mua
-  root: /var/www/blog
+  host: 80.211.132.177
+  user: root
+  root: /var/www/mua02.alexmufatti.it
   port:
   delete: true
   verbose: true

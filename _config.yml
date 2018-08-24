@@ -116,9 +116,9 @@ theme_config:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: rsync
-  host: 80.211.132.177
-  user: root
-  root: /var/www/mua02.alexmufatti.it
+  host: mua02.alexmufatti.it
+  user: mua
+  root: /var/www/alexmufatti.it
   port:
   delete: true
   verbose: true

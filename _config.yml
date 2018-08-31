@@ -111,6 +111,8 @@ theme_config:
     width: 80px
   gravatar:
     email: me@alexmufatti.it
+  favicon: 
+    custom: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

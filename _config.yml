@@ -102,8 +102,7 @@ theme_config:
     enabled: true
     shortname: alexmufatti
   search: true
-  tags_overview:
-    show_all_tags: true
+  tags_overview: true
   logo:
     enabled: true
     gravatar: true

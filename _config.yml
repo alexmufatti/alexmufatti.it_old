@@ -82,10 +82,10 @@ theme: cactus
 theme_config:
   colorscheme: alex
   nav:
-    Home: /
-    About: /about/
-    Contacts: /contacts/
-    Writing: /archives/
+    home: /
+    about: /about/
+    contacts: /contacts/
+    articles: /archives/
   social_links:
     github: https://github.com/alexmufatti
     twitter: https://twitter.com/alexmufatti
@@ -94,7 +94,7 @@ theme_config:
     stack-overflow: https://stackoverflow.com/users/606622/alex-mufattin
     strava: https://www.strava.com/athletes/12353579
   language: it
-  rss:
+  rss: atom.xml
   google_analytics:
     enabled: true
     id: 'UA-21196458-1'
@@ -112,6 +112,10 @@ theme_config:
     email: me@alexmufatti.it
   favicon: 
     custom: true
+  posts_overview:
+    show_all_posts: true
+    post_count: 5
+    sort_updated: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

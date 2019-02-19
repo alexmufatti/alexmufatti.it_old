@@ -14,7 +14,6 @@ Come ogni anno a Bosisio Parini (non preoccupatevi se non lo conoscete, non l'av
 
 [![15042007](/images/2007/04/15042007-300x225.jpg)](/images/2007/04/15042007.jpg)
 
-&nbsp;
 
 A parte la "levataccia" domenicale che non prendo mai di buon grado :-P é stata proprio una bella mattinata. Avendo preso alla lettera la denominazione "camminata" abbiamo percorso i 12 chilometri in poco meno di 3 ore ;-) (a dire il vero con qualche sosta a salutare parenti e conoscenti e con il tratto agiuntivo dalla partenza fin nei meandri di Rogeno a casa di Laura); il vincitore invece ha impiegato 40 minuti... ma non era una camminata???? Se ce l'avessero detto prima... :-P
 

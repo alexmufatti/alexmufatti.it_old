@@ -10,6 +10,6 @@ date: 2009-12-08 11:51:52
 
 Certo che se ne vedono di cose strane…
 
-[caption id="attachment_117" align="aligncenter" width="300" caption="Ingegneri..."]![](/images/2009/12/051220091.jpg?w=300&amp;h=225 "Cartello")[/caption]
+![](/images/2009/12/051220091.jpg?w=300&amp;h=225 "Cartello")!
 
 Ed io che pensavo che certe cose le facessero solo gli ingegneri! :-)

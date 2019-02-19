@@ -8,4 +8,4 @@ categories:
 date: 2010-11-14 14:27:16
 ---
 
-[caption id="attachment_181" align="aligncenter" width="480" caption="Affetto"][![Affetto](/images/2010/11/20101114-0224181.jpg "Affetto")](/images/2010/11/20101114-0224181.jpg)[/caption]
+[![Affetto](/images/2010/11/20101114-0224181.jpg "Affetto")](/images/2010/11/20101114-0224181.jpg)!

@@ -29,7 +29,3 @@ Rincuorati dalle sagge parole e con un po' di sana incoscienza i biker partono a
 I nostri stupefatti gitanti riprendono dunque il treninio (in quresto tratto quasi una metropolitana) diretto a [Locarno](http://www.locarno.ch "Locarno") dove, con un certo anticipo, riescono a prenotarsi per la corsa in Aliscafo (la gentilissima signora del chiosco dice che sono gli ultimi 6 posti disponibili... ma sull'aliscafo in realtà ci sono un sacco di posti liberi). Una breve passeggiata sul lungo lago (giusto il tempo per ammirare un altro nome di quelli che si possono trovare solo altralpe: il gelato "**pirulo**"!! :shock: ) a via, a cavalcare le onde verso Stresa dove li attende la chiusura del cerchio: il treno verso casa!Arrivati in fondo alla discesa i nostri amici depositano le bici nell'apposito vagone merci; queste cose possono davvero succedere solo in svizzera, nessuno controlla chi lascia o chi prende, tutto é affidato unicamente alla correttezza degli utilizzatori: davvero complimenti, un esempioi di civiltà..
 
 Proprio bello questo giro, una commistione di generi: treno, bici, aliscafo, lago, montagna, città... i nostri protagonisti sono stanchi ma soddisfatti e felici si dirigono verso il tramonto... su un treno delle FS..
-
-&nbsp;
-
-&nbsp;

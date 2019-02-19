@@ -14,7 +14,7 @@ date: 2012-04-27 20:00:10
 
 Today I was looking, like almost every day, to iTunes top 25 apps when I found a nice free app with a great 5 star score and more than ten thousands reviews. I decided it was worth a try and download it immediately.
 
-[caption id="attachment_602" align="aligncenter" width="481" caption="App ratings"][![App ratings](/images/2012/04/capture.png "App ratings")](/images/2012/04/capture.png)[/caption]
+[![App ratings](/images/2012/04/capture.png "App ratings")](/images/2012/04/capture.png)!
 
 <!--more-->
 

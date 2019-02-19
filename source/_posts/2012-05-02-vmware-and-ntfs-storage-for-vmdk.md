@@ -20,6 +20,6 @@ This probably worked only with older vmware versions.
 
 Then I found [this](http://www.ajopaul.com/2011/07/22/ubuntu-vmware-and-mount-ntfs-high-cpu-usage-fix/).
 
-[caption id="attachment_687" align="aligncenter" width="584" caption="vmware config"][![vmware config](/images/2012/05/screenshot.png "vmware config")](/images/2012/05/screenshot.png)[/caption]
+[![vmware config](/images/2012/05/screenshot.png "vmware config")](/images/2012/05/screenshot.png)!
 
 It says to change the location for snapshot and suspend files to a non ntfs partition. This just works!!

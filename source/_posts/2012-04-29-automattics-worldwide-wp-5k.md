@@ -14,11 +14,11 @@ So, here we are. Me and my wife went for the _Automattic's Worldwide WP 5k_ 201
 
 Here is what we have seen at the end of the 5 kilometers (then we continued for a while, also because we have to came back home :-P )
 
-[caption id="attachment_652" align="aligncenter" width="627" caption="Me and my wife after 5k"][![Me and my wife after 5k](/images/2012/04/img_02481.jpg "Me and my wife after 5k")](/images/2012/04/img_02481.jpg)[/caption]
+[![Me and my wife after 5k](/images/2012/04/img_02481.jpg "Me and my wife after 5k")](/images/2012/04/img_02481.jpg)!
 
 ### 
 
-[caption id="attachment_653" align="aligncenter" width="627" caption="Our transportation"][![Our transportations](/images/2012/04/img_02491.jpg "Our transportations")](/images/2012/04/img_02491.jpg)[/caption]
+[![Our transportations](/images/2012/04/img_02491.jpg "Our transportations")](/images/2012/04/img_02491.jpg)!
 
 And here is the GPS track!
 

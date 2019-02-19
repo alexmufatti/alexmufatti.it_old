@@ -16,7 +16,6 @@ I'm used to take screenshot for work, totake some notes and so I installed the [
 
 [![Screenshot applet](/images/2014/10/screenshot-from-2013-12-20-195253.png)](/images/2014/10/screenshot-from-2013-12-20-195253.png)
 
-&nbsp;
 
 After some day using it I was a bit bored by the screenshots saved in Pictures folder by default so I traied to change this behaviur.
 
@@ -29,5 +28,3 @@ You can edit the with dconf-editor the configuration string
 ![dconf](/images/2014/10/screenshot-from-2013-12-20-195128.png?w=300)
 
 ad set you favorite screenshot folder!
-
-&nbsp;

@@ -13,8 +13,6 @@ categories:
 date: 2013-10-10 20:01:59
 ---
 
-&nbsp;
-
 ![xfce-logo](/images/2014/10/xfce-logo.jpg)Today I started my xfce desktop and it looks like ..."different". No theme loaded, default icons, no background. I tried to change theme from Xfce Settings but nothing, it doesn't work.
 
 My .session-errors reveals a

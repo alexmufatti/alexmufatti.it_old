@@ -14,7 +14,6 @@ Abbiamo raggiunto Cannero e quindi Cannobio dove ci siamo fermati per una tappa,
 
 Proseguendo abbiamo sconfinato in svizzera e siamo giunti fino a Brissago, Ascona e, infine, Locarno dove é iniziato il viaggio di ritorno verso casa sulla sponda lombarda.
 
-&nbsp;
 
 [![](/images/2012/04/03062007013.jpg "03062007(013)")](/images/2012/04/03062007013.jpg)
 

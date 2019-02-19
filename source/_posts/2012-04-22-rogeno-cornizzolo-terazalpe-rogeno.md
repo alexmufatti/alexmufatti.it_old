@@ -27,7 +27,6 @@ Poco dopo costeggio il campo di lancio dei parapendii che è affollatissimo. M
 
 Arrivo finalmente al passo e, dopo una breve discesa, al rifugio: sono arrivato! Da qui si può salire fino al crocione; il sentiero però è in fortissima pendenza; probabilmente è percorribile quasi interamente in sella ma non voglio esagerare visto che mi manca ancora un bel po' di strada prima di tornare a casa!
 
-&nbsp;
 
 Visto che non conosco i sentieri della zona, chiedo informazioni al rifugio. Mi dicono che le discese sulla parte sud del monte non sono percorribili in MTB. Lo è invece un sentiero che passa dalla Terz'Alpe e scende poi a Canzo. Decido di provarci e mi metto in marcia.
 

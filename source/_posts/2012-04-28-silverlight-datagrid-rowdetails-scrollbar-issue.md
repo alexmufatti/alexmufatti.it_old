@@ -15,13 +15,13 @@ While developing a customer application in Silverlight 4, we find a bug in the s
 
 If you have a custom datagrid _RowDetailsTemplate_ and this is opened and closed by a button click, you can see that, when opening the last visible row in your datagrid, the RowDetails  remains hidden, or partially hidden because the grid does not scroll automatically down to fully reveal it.
 
-[caption id="attachment_622" align="aligncenter" width="559"][![RowDetails bug](/images/2012/04/capture1.png "RowDetails bug")](/images/2012/04/capture1.png) RowDetails bug[/caption]
+[![RowDetails bug](/images/2012/04/capture1.png "RowDetails bug")](/images/2012/04/capture1.png) RowDetails bug!
 
 <!--more-->
 
 The only work-around I've found to avoid this misbehavior is to add the _RowDetailsVisibilityChanged_ event to the grid and do the following:
 
-&nbsp;
+
 {% codeblock lang:csharp %}
 double _rowheight = 0;
 private void MyGrid_RowDetailsVisibilityChanged(object sender, DataGridRowDetailsEventArgs e)
@@ -49,9 +49,7 @@ MyGrid.UpdateLayout();
 });
 }
 }{% endcodeblock %}
-&nbsp;
 
-&nbsp;
 
 As you can see the trick is to expand the grid row so that its height is equals to the height of the row details. Doing so you can than call the method _ScrollIntoView_ to reveal the whole row details.
 When the row details is closed, you have to restore the original row height.

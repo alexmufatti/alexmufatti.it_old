@@ -19,7 +19,7 @@ Let's start with a text editor/IDE.
 
 ## [Sublime Text 2](http://www.sublimetext.com/2 "Sublime Text 2")
 
-[caption id="" align="aligncenter" width="200"]![](https://cdn.tutsplus.com/net/uploads/legacy/1140_st2plugins/200u.jpg) Sublime text 2[/caption]
+![](https://cdn.tutsplus.com/net/uploads/legacy/1140_st2plugins/200u.jpg) Sublime text 2!
 
 I'm always looking for a good text editor that can help me working on simple text files but also on small projects (typically javascript or python). I loved _vim_ (ok, vim is a religion, non an editor ;-) and I continue using it but when I want something of user-friendly it's not really a good choice.
 

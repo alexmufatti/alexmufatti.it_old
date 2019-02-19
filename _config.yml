@@ -144,3 +144,9 @@ robotstxt:
   disallow:
   allow:
   sitemap: https://alexmufatti.it/sitemap.xml
+
+excerpt:
+  depth: 2
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true

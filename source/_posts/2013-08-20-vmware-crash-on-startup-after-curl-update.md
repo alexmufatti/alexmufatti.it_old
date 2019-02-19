@@ -21,8 +21,6 @@ There are two ways of solving this: downgrade Curl (i.e. using snapshot debian) 
 
 Thewe are the 2 patches, one for vmware and one for vmplayer:
 
-&nbsp;
-
 {% codeblock lang:diff %}
 --- /usr/bin/vmware-original 2013-02-09 18:22:36.194459631 +0100
 +++ /usr/bin/vmware 2013-02-09 18:22:45.234459997 +0100
@@ -34,6 +32,7 @@ if "$BINDIR"/vmware-modconfig --appname="VMware Workstation" --icon="vmware-work
 exec "$libdir"/bin/"vmware" "$@"
 fi
 {% endcodeblock %}
+
 
 {% codeblock lang:diff %}
 --- /usr/bin/vmplayer-original 2013-01-30 22:06:11.253190017 +0100
@@ -47,6 +46,5 @@ exec "$libdir"/bin/"vmplayer" "$@"
 fi
 {% endcodeblock %}
 
-&nbsp;
 
 I decided to apply the patches so that I can update the whole system.

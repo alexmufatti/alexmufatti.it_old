@@ -25,6 +25,7 @@
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3",
     "hexo-tag-garminconnect": "^0.1.2",
+    "hexo-tag-strava": "^0.1.1",
     "hexo-tag-instagram": "^1.1.0"
   }
 }

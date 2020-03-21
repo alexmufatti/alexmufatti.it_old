@@ -76,8 +76,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-#theme: landscape
-theme: cactus
+theme: clean-blog
+# theme: cactus
 
 theme_config:
   colorscheme: alex

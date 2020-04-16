@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Alex Mufatti
+title: Code And Run
 subtitle: Hands on software
 description:
-keywords: software development
+keywords: software development, coding, running, corsa
 author: Alex Mufatti
 language: it
 timezone: CET
@@ -16,7 +16,7 @@ licenseIconSize: normal
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://alexmufatti.it
+url: https://codeandrun.it
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -77,45 +77,6 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: clean-blog
-# theme: cactus
-
-theme_config:
-  colorscheme: alex
-  nav:
-    home: /
-    about: /about/
-    contacts: /contacts/
-    articles: /archives/
-  social_links:
-    github: https://github.com/alexmufatti
-    twitter: https://twitter.com/alexmufatti
-    linkedin: https://www.linkedin.com/in/amufatti/
-    npm: https://www.npmjs.com/~alexmufatti
-    stack-overflow: https://stackoverflow.com/users/606622/alex-mufattin
-    strava: https://www.strava.com/athletes/12353579
-  language: it
-  rss: atom.xml
-  google_analytics:
-    enabled: true
-    id: 'UA-21196458-1'
-  disqus:
-    enabled: true
-    shortname: alexmufatti
-  search: true
-  tags_overview: true
-  logo:
-    enabled: true
-    gravatar: true
-    height: 80px
-    width: 80px
-  gravatar:
-    email: me@alexmufatti.it
-  favicon:
-    custom: true
-  posts_overview:
-    show_all_posts: true
-    post_count: 5
-    sort_updated: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -143,7 +104,7 @@ robotstxt:
   useragent: "*"
   disallow:
   allow:
-  sitemap: https://alexmufatti.it/sitemap.xml
+  sitemap: https://codeandrun.it/sitemap.xml
 
 excerpt:
   depth: 2

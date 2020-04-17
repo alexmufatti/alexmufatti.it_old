@@ -84,7 +84,7 @@ deploy:
   type: rsync
   host: mua02.alexmufatti.it
   user: mua
-  root: /var/www/alexmufatti.it
+  root: /var/www/codeandrun.it
   port:
   delete: true
   verbose: true

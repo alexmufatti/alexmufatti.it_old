@@ -5,6 +5,12 @@
   "hexo": {
     "version": "4.2.0"
   },
+  "scripts": {
+    "build": "hexo clean && hexo generate",
+    "deploy": "hexo deploy",
+    "serve": "hexo serve",
+    "buildserve": "hexo clean && hexo generate && hexo serve"
+  },
   "dependencies": {
     "hexo": "^4.2.0",
     "hexo-deployer-rsync": "^1.0.0",

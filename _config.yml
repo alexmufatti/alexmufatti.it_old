@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Code & Run
+title: Alex Mufatti
 subtitle: Hands on software
 description:
 keywords: software development, coding, running, corsa
@@ -16,7 +16,7 @@ licenseIconSize: normal
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://codeandrun.it
+url: https://alexmufatti.it
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -84,7 +84,7 @@ deploy:
   type: rsync
   host: mua02.alexmufatti.it
   user: mua
-  root: /var/www/codeandrun.it
+  root: /var/www/alexmufatti.it
   port:
   delete: true
   verbose: true
@@ -104,7 +104,7 @@ robotstxt:
   useragent: "*"
   disallow:
   allow:
-  sitemap: https://codeandrun.it/sitemap.xml
+  sitemap: https://alexmufatti.it/sitemap.xml
 
 excerpt:
   depth: 2

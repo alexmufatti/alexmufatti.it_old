@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "hexo": "^4.2.0",
+    "hexo-d3cloudtag": "github:alexmufatti/hexo-d3cloudtag",
     "hexo-deployer-rsync": "^1.0.0",
     "hexo-excerpt": "^1.1.6",
     "hexo-generator-archive": "^1.0.0",

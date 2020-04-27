@@ -34,7 +34,7 @@ skip_render:
 # Writing
 new_post_name: :year-:month-:day-:title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: true
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
@@ -111,3 +111,55 @@ excerpt:
   excerpt_excludes: []
   more_excludes: []
   hideWholePostExcerpts: true
+
+theme_config:
+  menu:
+    Home: /
+    Archives: /archives
+    Tags: /tags
+    Categories:
+    Github:
+      url: https://github.com/alexmufatti
+      icon: github
+    Strava:
+      url: https://www.strava.com/athletes/12353579
+      icon: strava
+
+  # Title on top left of menu. Leave empty to use main blog title
+  menu_title:
+
+  # URL of the Home page image
+  index_cover: /images/header.jpg
+
+  # Default post title
+  default_post_title: Untitled
+
+  # Comments. Choose one by filling up the information
+  comments:
+    # Disqus comments
+    disqus_shortname: alexmufatti
+    # Facebook comments
+    facebook:
+      appid:
+      comment_count: 5
+      comment_colorscheme: light
+
+  # Google Analytics Tracking ID
+  google_analytics: 'UA-21196458-5'
+
+  # Addthis ID
+  addthis:
+
+  # set your own favicon
+  favicon: favicon.ico?v=3
+
+  # Social Accounts
+  twitter_url: https://twitter.com/alexmufatti
+  twitter_handle: alexmufatti
+  facebook_url:
+  github_url: https://github.com/alexmufatti
+  gitlab_url:
+  linkedin_url: https://www.linkedin.com/in/amufatti/
+  mailto: me@alexmufatti.it
+  instagram_url: https://www.instagram.com/alexmufatti
+  stackoverflow_url: https://stackoverflow.com/users/606622/alex-mufatti

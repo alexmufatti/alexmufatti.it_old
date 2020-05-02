@@ -9,7 +9,8 @@
     "build": "hexo clean && hexo generate",
     "deploy": "hexo deploy",
     "serve": "hexo serve",
-    "buildserve": "hexo clean && hexo generate && hexo serve"
+    "buildserve": "hexo clean && hexo generate && hexo serve",
+    "builddeploy": "hexo clean && hexo generate && hexo deploy"
   },
   "dependencies": {
     "hexo": "^4.2.0",
